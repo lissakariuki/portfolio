@@ -30,7 +30,7 @@ list-style-type: none;
     gap: 2rem;
  }
  nav ul li a { 
-    color: fffff;
+    color: greenyellow;
     font-size: 1.2rem;
     font-style: italic;
     padding: 0.8rem;
