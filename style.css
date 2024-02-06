@@ -5,18 +5,21 @@ box-sizing: auto;
 text-decoration: none;
 list-style-type: none;
 }
+/*body*/
 .body{
     width: 100%;
     height: 100vh;
     background: url("C:\Users\LissaKariuki\30days\comeback\images\pexels-christina-morillo-1181359.jpgimages/pexels-christina-morillo-1181359.jpg");
     background-size: cover;
 }
+/*logo*/
 #logo{
     font-size: 2.2rem;
     color: #fff;
     font-style: italic;
     font-weight: bold;
 }
+/*nav*/
 .nav{ 
     width: 100%;
     height: 10vh;
